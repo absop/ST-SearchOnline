@@ -1,5 +1,5 @@
 {
-    "caption": "在线搜索",
+    "caption": "Search Online",
     "platforms": {
         "Wiki": "https://en.wikipedia.org/wiki/%s",
         "Github": "https://github.com/search?q=%s&type=Code",
