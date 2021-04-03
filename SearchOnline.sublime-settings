@@ -1,0 +1,9 @@
+{
+    "caption": "在线搜索",
+    "platforms": {
+        "Wiki": "https://en.wikipedia.org/wiki/%s",
+        "Github": "https://github.com/search?q=%s&type=Code",
+        "Baidu": "https://www.baidu.com/s?ie=UTF-8&wd=%s",
+        "Google" : "http://google.com/#q=%s"
+    }
+}
