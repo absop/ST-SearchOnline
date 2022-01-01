@@ -20,6 +20,7 @@ class SerachOnlineMenuCreater(menu.MenuCreater):
                     url = self.platforms[platform]
                     return self.item(
                         "Search With " + platform,
+                        # Command defined in dctxmenu
                         'open_file_with_default_application',
                         {"file": url % content }
                     )
